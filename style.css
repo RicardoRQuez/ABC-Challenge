@@ -1,4 +1,25 @@
+
+body{
+   background-color: grey;
+}
+
+
 html {
   height: 100%;
   width: 100%;
+  
 }
+
+
+h3{
+  color: green;
+}
+
+.azul{
+  color: blue;
+}
+
+.rojo{
+  color: red;
+}
+
